@@ -95,18 +95,18 @@ taskify/
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/welcome.png" width="200" alt="Welcome Screen"/>
-  <img src="assets/screenshots/auth.png" width="200" alt="Auth Screen"/>
-  <img src="assets/screenshots/tasks.png" width="200" alt="Tasks Screen"/>
-  <img src="assets/screenshots/add.png" width="200" alt="AddTask Screen"/>
-  <img src="assets/screenshots/completed.png" width="200" alt="CompletedTask Screen"/>
-  <img src="assets/screenshots/settings.png" width="200" alt="Settings Screen"/>
-  <img src="assets/screenshots/profile.png" width="200" alt="Profile Screen"/>
-  <img src="assets/screenshots/edit.png" width="200" alt="EditProfile Screen"/>
-  <img src="assets/screenshots/privacy.png" width="200" alt="PrivacyPolicy Screen"/>
-  <img src="assets/screenshots/contact.png" width="200" alt="ContactUs Screen"/>
-  <img src="assets/screenshots/about.png" width="200" alt="AboutUs Screen"/>
-  <img src="assets/screenshots/help.png" width="200" alt="HelpCenter Screen"/>
+  <img src="assets/screenshots/welcome.PNG" width="200" alt="Welcome Screen"/>
+  <img src="assets/screenshots/auth.PNG" width="200" alt="Auth Screen"/>
+  <img src="assets/screenshots/tasks.PNG" width="200" alt="Tasks Screen"/>
+  <img src="assets/screenshots/add.PNG" width="200" alt="AddTask Screen"/>
+  <img src="assets/screenshots/completed.PNG" width="200" alt="CompletedTask Screen"/>
+  <img src="assets/screenshots/settings.PNG" width="200" alt="Settings Screen"/>
+  <img src="assets/screenshots/profile.PNG" width="200" alt="Profile Screen"/>
+  <img src="assets/screenshots/edit.PNG" width="200" alt="EditProfile Screen"/>
+  <img src="assets/screenshots/privacy.PNG" width="200" alt="PrivacyPolicy Screen"/>
+  <img src="assets/screenshots/contact.PNG" width="200" alt="ContactUs Screen"/>
+  <img src="assets/screenshots/about.PNG" width="200" alt="AboutUs Screen"/>
+  <img src="assets/screenshots/help.PNG" width="200" alt="HelpCenter Screen"/>
 </p>
 
 ## Environment Setup
